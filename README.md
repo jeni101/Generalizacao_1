@@ -1,4 +1,4 @@
-# Generaliza-o-1-
+# Generalizacao 1 
 
 Equipe:
 
