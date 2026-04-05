@@ -3,3 +3,4 @@ Version:
         -[ • jenifer  ] 00.1.0.0.0.0.0.001    - (criacao commit-pulls e README)
         -[ • Gustavo  ] 00.1.0.0.0.0.0.002    - (initial simpson 3/8)
         -[ • Gustavo  ] 00.1.0.0.0.0.0.003    - (simpson 3/8 aprimoration)
+        -[ • Gustavo  ] 00.1.0.0.0.0.0.004    - (simpson 3/8 final and error)
