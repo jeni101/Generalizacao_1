@@ -48,5 +48,5 @@ def perform(f_str, a, b, n_max):
     plt.tight_layout()
     plt.show()
 
-funcao = "np.sin(x)**2"
-perform(funcao, 0, np.pi, 90)
+# funcao = "np.sin(x)**2"
+# perform(funcao, 0, np.pi, 90)
