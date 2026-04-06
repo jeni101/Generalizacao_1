@@ -23,3 +23,7 @@ Version:
         -[ • Gustavo  ] 00.1.1.0.0.0.0.008    - (pre-merge error)
         -[ • Gustavo  ] 00.1.1.0.0.0.0.009    - (error cover final - trapezio)
         
+    -0.110.01
+        -[ • Gustavo  ] 10.0.0.0.0.0.0.001    - (dev_plus consolidation)
+        -[ • Gustavo  ] 10.0.0.0.0.0.0.002    - (pycash cleaning)
+        -[ • Gustavo  ] 10.0.0.0.0.0.0.003    - (final ajustments)
