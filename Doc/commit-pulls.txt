@@ -6,5 +6,5 @@ Version:
         -[ • Gustavo  ] 00.1.0.0.0.0.0.004    - (simpson 3/8 final and error)
         -[ • jenifer  ] 00.1.0.0.0.0.0.005    - (prototipo generalizacao trapezio)
         -[ • jenifer  ] 00.1.0.0.0.0.0.006    - (funcoes genericas do trapezio e melhor visualizacao para o usuario)
-        
+        -[ • Gustavo  ] 00.1.0.0.0.0.0.007    - (folder fixes + pre-merge)
         

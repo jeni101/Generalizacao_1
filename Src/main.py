@@ -1,7 +1,7 @@
 
 import numpy as np
-import trapezio 
-import limpar_tela  
+import trapezio.trapezio as trapezio 
+import utils.limpar_tela as limpar_tela  
 
 #imformations
 
