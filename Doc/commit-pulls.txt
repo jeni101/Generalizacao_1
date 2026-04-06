@@ -4,7 +4,21 @@ Version:
         -[ • Gustavo  ] 00.1.0.0.0.0.0.002    - (initial simpson 3/8)
         -[ • Gustavo  ] 00.1.0.0.0.0.0.003    - (simpson 3/8 aprimoration)
         -[ • Gustavo  ] 00.1.0.0.0.0.0.004    - (simpson 3/8 final and error)
-        -[ • jenifer  ] 00.1.0.0.0.0.0.005    - (prototipo generalizacao trapezio)
-        -[ • jenifer  ] 00.1.0.0.0.0.0.006    - (funcoes genericas do trapezio e melhor visualizacao para o usuario)
-        -[ • Gustavo  ] 00.1.0.0.0.0.0.007    - (folder fixes + pre-merge)
+        -[ • Philipe  ] 00.1.0.0.0.0.0.005    - (simpson 1/3 initil aplication)
+        -[ • Philipe  ] 00.1.0.0.0.0.0.006    - (simpson 1/3 making it more performative)
+        -[ • Philipe  ] 00.1.0.0.0.0.0.007    - (simpson 1/3 add simpson13_graph.py in main)
+        -[ • Philipe  ] 00.1.0.0.0.0.0.007.2  - (simpson 1/3 fix errors)
+        -[ • Gustavo  ] 00.1.0.0.0.0.0.008    - (conflict check)
+        -[ • Gustavo  ] 00.1.0.0.0.0.0.009    - (main.py organization)
+        -[ • Gustavo  ] 00.1.0.0.0.0.0.010    - (main.py organization + simpson 13 padronization)
+        
+Version:
+    -0.010.01
+        -[ • jenifer  ] 00.1.1.0.0.0.0.001    - (criacao commit-pulls e README)
+        -[ • Gustavo  ] 00.1.1.0.0.0.0.002    - (initial simpson 3/8)
+        -[ • Gustavo  ] 00.1.1.0.0.0.0.003    - (simpson 3/8 aprimoration)
+        -[ • Gustavo  ] 00.1.1.0.0.0.0.004    - (simpson 3/8 final and error)
+        -[ • jenifer  ] 00.1.1.0.0.0.0.005    - (prototipo generalizacao trapezio)
+        -[ • jenifer  ] 00.1.1.0.0.0.0.006    - (funcoes genericas do trapezio e melhor visualizacao para o usuario)
+        -[ • Gustavo  ] 00.1.1.0.0.0.0.007    - (folder fixes + pre-merge)
         
